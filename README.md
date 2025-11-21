@@ -4,6 +4,7 @@ Este proyecto consiste en una pequeña **API REST** desarrollada con **Node.js y
 
 ## 🗂 Estructura del proyecto
 
+```
 viamed/
 ├─ backend/
 │ ├─ index.js
@@ -15,6 +16,7 @@ viamed/
 │ │ ├─ main.jsx
 │ │ └─ index.css
 │ └─ vite.config.js
+```
 
 ## 📸 Visualización de la Aplicación
 
@@ -24,13 +26,13 @@ A continuación se muestran algunas capturas de pantalla de la aplicación:
 
 Este es el **componente de tabla** que muestra la lista de usuarios obtenida desde la API REST. Puedes ver el nombre, la edad, el email y un ícono para ver los detalles del usuario.
 
-![Tabla de Usuarios](public/images/userTable.png)
+![Tabla de Usuarios](frontend/viamed-app/public/images/userTable.png)
 
 ### 2. **Modal de Detalles de Usuario**
 
 Este es el **modal** que se abre al hacer clic en el ícono de detalles de un usuario. En el modal puedes ver más información, como el teléfono, la ciudad, el email y la edad del usuario seleccionado.
 
-![Modal de Usuario](public/images/userModal.png)
+![Modal de Usuario](frontend/viamed-app/public/images/userModal.png)
 
 ## ⚙️ Backend
 
