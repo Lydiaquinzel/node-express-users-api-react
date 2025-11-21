@@ -1,0 +1,42 @@
+body {
+  background: #ffffff;
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #000000;
+}
+
+button {
+  padding: 6px 12px;
+  margin: 5px 0;
+  cursor: pointer;
+  background: #0077ff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #005ccc;
+}
+
+.eyeButton {
+  background: none;          
+  border: none;              
+  padding: 0;               
+  margin: 0;                
+  display: inline-block;    
+  cursor: pointer;        
+  text-align: center;       
+}
+
+.eyeIcon {
+  font-size: 2.5rem;         
+  color: #0066cc;          
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.eyeButton:hover .eyeIcon {
+  transform: scale(1.2);    
+  color: #004d99;         
+}

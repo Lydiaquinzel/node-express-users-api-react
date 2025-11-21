@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "María Pérez",
+    "email": "maria.perez@example.com",
+    "telefono": "+34 612 345 001",
+    "ciudad": "Madrid",
+    "edad": 28
+  },
+  {
+    "id": 2,
+    "nombre": "Juan Gómez",
+    "email": "juan.gomez@example.com",
+    "telefono": "+34 612 345 002",
+    "ciudad": "Barcelona",
+    "edad": 32
+  },
+  {
+    "id": 3,
+    "nombre": "Lucía García",
+    "email": "lucia.garcia@example.com",
+    "telefono": "+34 612 345 003",
+    "ciudad": "Valencia",
+    "edad": 26
+  },
+  {
+    "id": 4,
+    "nombre": "Carlos Sánchez",
+    "email": "carlos.sanchez@example.com",
+    "telefono": "+34 612 345 004",
+    "ciudad": "Sevilla",
+    "edad": 41
+  },
+  {
+    "id": 5,
+    "nombre": "Laura Gómez",
+    "email": "laura.gomez@example.com",
+    "telefono": "+34 612 345 005",
+    "ciudad": "Bilbao",
+    "edad": 30
+  },
+  {
+    "id": 6,
+    "nombre": "David Moreno",
+    "email": "david.moreno@example.com",
+    "telefono": "+34 612 345 006",
+    "ciudad": "Málaga",
+    "edad": 37
+  },
+  {
+    "id": 7,
+    "nombre": "Sara Jiménez",
+    "email": "sara.jimenez@example.com",
+    "telefono": "+34 612 345 007",
+    "ciudad": "Zaragoza",
+    "edad": 24
+  },
+  {
+    "id": 8,
+    "nombre": "Jorge Martín",
+    "email": "jorge.martin@example.com",
+    "telefono": "+34 612 345 008",
+    "ciudad": "Alicante",
+    "edad": 35
+  },
+  {
+    "id": 9,
+    "nombre": "Elena Ruiz",
+    "email": "elena.ruiz@example.com",
+    "telefono": "+34 612 345 009",
+    "ciudad": "Valladolid",
+    "edad": 29
+  },
+  {
+    "id": 10,
+    "nombre": "Pablo Torres",
+    "email": "pablo.torres@example.com",
+    "telefono": "+34 612 345 010",
+    "ciudad": "Córdoba",
+    "edad": 33
+  },
+  {
+    "id": 11,
+    "nombre": "Andrea López",
+    "email": "andrea.lopez@example.com",
+    "telefono": "+34 612 345 011",
+    "ciudad": "Granada",
+    "edad": 27
+  },
+  {
+    "id": 12,
+    "nombre": "Miguel Castillo",
+    "email": "miguel.castillo@example.com",
+    "telefono": "+34 612 345 012",
+    "ciudad": "Murcia",
+    "edad": 40
+  },
+  {
+    "id": 13,
+    "nombre": "Sofía Romero",
+    "email": "sofia.romero@example.com",
+    "telefono": "+34 612 345 013",
+    "ciudad": "Pamplona",
+    "edad": 22
+  },
+  {
+    "id": 14,
+    "nombre": "Héctor Navarro",
+    "email": "hector.navarro@example.com",
+    "telefono": "+34 612 345 014",
+    "ciudad": "Santander",
+    "edad": 31
+  },
+  {
+    "id": 15,
+    "nombre": "Paula Herrera",
+    "email": "paula.herrera@example.com",
+    "telefono": "+34 612 345 015",
+    "ciudad": "Tenerife",
+    "edad": 36
+  }
+]
