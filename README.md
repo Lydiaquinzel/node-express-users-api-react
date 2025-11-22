@@ -51,7 +51,9 @@ npm install
 
 ### 🔹 Levantar el servidor
 
+```bash
 node index.js
+```
 
 El backend quedará escuchando en:
 
