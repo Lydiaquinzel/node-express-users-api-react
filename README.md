@@ -76,8 +76,10 @@ React Icons
 
 ### 🔹 Instalación de dependencias
 
+```bash
 cd frontend/viamed-app
 npm install
+```
 
 ### 🔹 Levantar el frontend
 
