@@ -11,7 +11,7 @@ Este proyecto consiste en una pequeña **API REST** desarrollada con **Node.js y
 ## 🗂 Estructura del proyecto
 
 ```
-viamed/
+project/
 ├─ backend/
 │ ├─ index.js
 │ └─ usuarios.json
