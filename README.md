@@ -1,3 +1,9 @@
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-4.x-black?logo=express)
+![React](https://img.shields.io/badge/React-18.x-blue?logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+
 # Proyecto: API REST de Usuarios con Frontend en React
 
 Este proyecto consiste en una pequeña **API REST** desarrollada con **Node.js y Express** y un **frontend en React** que muestra los datos obtenidos desde la API de forma visual usando **Bootstrap** y **React Icons**.
